@@ -1,0 +1,1 @@
+designing a supercollider function to determine integer parity: a multiparadigmatic approach combining functional and object-oriented styles (braginsky 2019)
